@@ -17,7 +17,7 @@ This project demonstrates a complete implementation of frontend and backend inte
 
 - Hompage Footer Section
 
-![Homepage Footer Section](./Screenshots/Screenshotv2025-10-06%20002908.png)
+![Homepage Footer Section](./Screenshots/Screenshot%202025-10-06%20002908.png)
 
 ---
 
