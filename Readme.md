@@ -9,7 +9,7 @@ This project demonstrates a complete implementation of frontend and backend inte
 
 - Hompage Hero Section
 
-![Homepage Hero Section](./Screenshots/Screenshot-2025-10-06-002648.png)
+![Homepage Hero Section](./Screenshots/Screenshot%202025-10-06%20002648.png)
 
 - Hompage Cards Section
 
