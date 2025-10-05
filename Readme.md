@@ -13,11 +13,11 @@ This project demonstrates a complete implementation of frontend and backend inte
 
 - Hompage Cards Section
 
-![Homepage Cards Section](./Screenshots/Screenshot-2025-10-06-002815.png)
+![Homepage Cards Section](./Screenshots/Screenshot%202025-10-06%20002815.png)
 
 - Hompage Footer Section
 
-![Homepage Footer Section](./Screenshots/Screenshot-2025-10-06-002908.png)
+![Homepage Footer Section](./Screenshots/Screenshotv2025-10-06%20002908.png)
 
 ---
 
