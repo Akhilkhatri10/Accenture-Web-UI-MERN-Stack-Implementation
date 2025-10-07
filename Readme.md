@@ -51,8 +51,6 @@ This project demonstrates a complete implementation of frontend and backend inte
 
 ├── package.json
 
-└── README.md (optional)
-
 ### backend (Express + MongoDB backend)
 
 ├── config/
